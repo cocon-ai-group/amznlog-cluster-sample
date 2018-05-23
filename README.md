@@ -9,7 +9,7 @@ RNNによるログデータ（時系列データ）の分散表現作成サン�
 
 ![result](result.png)
 
-詳しい解説
+[詳しい解説][2]
 
 ## 使用データ
 
@@ -20,3 +20,4 @@ RNNによるログデータ（時系列データ）の分散表現作成サン�
 [Gnu AGPL 3.0](LICENSE)
 
 [1]: https://archive.ics.uci.edu/ml/datasets/Amazon+Access+Samples
+[2]: https://cocon-corporation.com/cocontoco/clustering_log_data/
